@@ -19,7 +19,7 @@ This project integrates the powerful language generation capabilities of the Ope
 
 ## 📽️ Demo Video
 
-![Demo](Capture.jpg)
+![Demo](Capture.JPG)
 
 ## 🗃️ Dataset
 
