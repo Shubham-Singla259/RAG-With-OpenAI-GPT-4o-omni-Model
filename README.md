@@ -17,7 +17,7 @@ This project integrates the powerful language generation capabilities of the Ope
 4. **Response Generation**: GPT-4o processes the retrieved information and generates a detailed response.
 5. **Result Output**: The generated response is returned to the user.
 
-## 📽️ Demo Video
+## 📽️ Demo
 
 ![Demo](Capture.JPG)
 
